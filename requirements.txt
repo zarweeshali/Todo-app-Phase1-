@@ -1,0 +1,2 @@
+# No external dependencies for Phase I - using standard library only
+# This file exists to maintain project structure consistency
